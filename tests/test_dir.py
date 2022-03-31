@@ -10,6 +10,8 @@ class MFTest(unittest.TestCase):
     def test_mf_standalone(self):
         print('!!!!!')
         print('!!!!!')
+        print('!!!!!')
+        print('!!!!!')
         self.assertTrue(os.path.exist('tests/test_abc.py'))
 
 
