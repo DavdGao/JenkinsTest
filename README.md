@@ -5,3 +5,4 @@ This is a test repository for Jenkins.
 Test 1
 Test 2
 Test 3
+Test 4
