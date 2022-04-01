@@ -2,7 +2,7 @@
 import unittest
 import os
 
-class MFTest(unittest.TestCase):
+class DIRTest(unittest.TestCase):
     def setUp(self):
         print(('Testing %s.%s' % (type(self).__name__, self._testMethodName)))
 
